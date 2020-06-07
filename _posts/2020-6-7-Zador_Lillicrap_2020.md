@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Machine learning is helpful to psychology, conditions apply
+title: Innate Structure or Learning in AI research?
 ---
 
 Today I will bring you the debate between Anthony Zador and Timothy Lillicrap as a part of the [NeuroMatch conference](https://www.crowdcast.io/e/neuromatch2/3), on the relative importance of innate structure and learning algorithms in artificial neural networks (ANN) research. The current focus of ANN has been on learning, defined as the process of specifying huge weight matrices from big training datasets. Lillicrap argued that the current method has produced numerous promising results, and will continue to do so when facing more real-life problems. On contrary, Zador argued that the importance of innate structures without learning has been underappreciated in AI research, and needs to be more studied if we wish to have AIs capable of doing real world (esp. sensorimotor) tasks. 
